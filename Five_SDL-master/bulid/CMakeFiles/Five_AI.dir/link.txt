@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror   CMakeFiles/Five_AI.dir/Five_AI/main.cpp.o  -o ../bin/Five_AI -lSDL2 -lSDL2_ttf -lSDL2 -lSDL2_net -lSDL2 -lSDL2_ttf -lSDL2_net 

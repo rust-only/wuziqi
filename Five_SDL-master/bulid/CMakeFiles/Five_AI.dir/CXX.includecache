@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/r_ust/project1/Five_SDL-master/Five_AI/Five_AI.h
+
+/home/r_ust/project1/Five_SDL-master/Five_AI/main.cpp
+SDL2/SDL.h
+/home/r_ust/project1/Five_SDL-master/Five_AI/SDL2/SDL.h
+SDL2/SDL_net.h
+/home/r_ust/project1/Five_SDL-master/Five_AI/SDL2/SDL_net.h
+SDL2/SDL_ttf.h
+/home/r_ust/project1/Five_SDL-master/Five_AI/SDL2/SDL_ttf.h
+Five_AI.h
+/home/r_ust/project1/Five_SDL-master/Five_AI/Five_AI.h
+

@@ -1,0 +1,4 @@
+/home/r_ust/project1/Five_SDL-master/bulid/CMakeFiles/rebuild_cache.dir
+/home/r_ust/project1/Five_SDL-master/bulid/CMakeFiles/edit_cache.dir
+/home/r_ust/project1/Five_SDL-master/bulid/CMakeFiles/Five.dir
+/home/r_ust/project1/Five_SDL-master/bulid/CMakeFiles/Five_AI.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror   CMakeFiles/Five.dir/Five/chess.cpp.o CMakeFiles/Five.dir/Five/Game.cpp.o CMakeFiles/Five.dir/Five/main.cpp.o  -o ../bin/Five -lSDL2 -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lSDL2_mixer -lSDL2 -lSDL2_net -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer -lSDL2_net 
